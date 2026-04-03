@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "strategy": "Strategy",
+    "assets": "Assets",
+    "market": "Market",
+    "insights": "Insights",
+    "consultation": "Consultation",
+    "accessPortal": "Access Portal"
+  },
+  "hero": {
+    "badge": "EXCELLENCE IN ADVISORY",
+    "title": "Grow Your Wealth with",
+    "titleHighlight": "Green Days Wealth Club",
+    "subtitle": "Track, manage, and grow your finances with data-driven insights. We combine human expertise with algorithmic precision to secure your legacy.",
+    "ctaPrimary": "View Dashboard",
+    "ctaSecondary": "Our Methodology"
+  },
+  "services": {
+    "badge": "CORE SERVICES",
+    "title": "Curated Strategic Solutions",
+    "items": [
+      {
+        "title": "Financial Planning",
+        "desc": "Comprehensive roadmaps designed for long-term wealth preservation and generational growth."
+      },
+      {
+        "title": "Investment Tracking",
+        "desc": "Real-time oversight of global assets with proprietary risk-assessment modeling."
+      },
+      {
+        "title": "Wealth Management",
+        "desc": "Active capital allocation strategies focused on tax efficiency and diversified returns."
+      }
+    ],
+    "learnMore": "Learn More"
+  },
+  "howItWorks": {
+    "badge": "PROCESS",
+    "title": "Streamlined Onboarding",
+    "steps": [
+      {
+        "title": "Submit your financial data",
+        "desc": "Connect your accounts securely via our encrypted vault or provide documentation for manual entry."
+      },
+      {
+        "title": "We categorize your assets",
+        "desc": "Our algorithms and advisors organize your holdings into strategic asset classes for better visibility."
+      },
+      {
+        "title": "Access your personal dashboard",
+        "desc": "Log in to your bespoke command center to view growth projections and actionable insights."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start Growing Your Wealth Today",
+    "subtitle": "Join an exclusive circle of investors who prioritize precision, clarity, and long-term strategic growth.",
+    "button": "Get Started"
+  },
+  "footer": {
+    "brand": "Green Days Wealth Club",
+    "links": ["Privacy Policy", "Terms of Service", "Disclosures", "Contact"],
+    "copy": "© 2024 Green Days Wealth Management. Member SIPC."
+  },
+  "dashboard": {
+    "premiumTier": "BEGINNER TIER",
+    "portfolioOverview": "Portfolio Overview",
+    "today": "Today",
+    "totalAssets": "TOTAL ASSETS",
+    "investments": "INVESTMENTS",
+    "savings": "SAVINGS",
+    "trading": "TRADING",
+    "netPnL": "NET P&L (YTD)",
+    "realizedUnrealized": "Realized & Unrealized gains",
+    "assetAllocation": "Asset Allocation",
+    "details": "DETAILS",
+    "recentActivity": "Recent Activity",
+    "viewAll": "VIEW ALL",
+    "savingsVelocity": "Savings Velocity",
+    "monthlyContribution": "Monthly contribution rate",
+    "platform": "Platform",
+    "capital": "Capital",
+    "instrument": "Instrument",
+    "position": "Position",
+    "profit": "Profit",
+    "date": "Date",
+    "goldSavings": "Gold Savings",
+    "buyPrice": "Buy Price",
+    "currentPrice": "Current Price",
+    "currentValue": "Current Value",
+    "goldPnL": "Gold Gain",
+    "goldPnLLabel": "NET P&L GOLD",
+    "tradingPnLLabel": "NET P&L TRADING",
+    "amount": "Amount",
+    "noData": "No data available"
+  }
+}

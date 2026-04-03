@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "strategy": "Strategi",
+    "assets": "Aset",
+    "market": "Pasar",
+    "insights": "Wawasan",
+    "consultation": "Konsultasi",
+    "accessPortal": "Akses Portal"
+  },
+  "hero": {
+    "badge": "KEUNGGULAN DALAM ADVISORY",
+    "title": "Tumbuhkan Kekayaan Anda bersama",
+    "titleHighlight": "Green Days Wealth Club",
+    "subtitle": "Pantau, kelola, dan kembangkan keuangan Anda dengan pendekatan berbasis data. Kami menggabungkan keahlian manusia dengan presisi algoritmik untuk mengamankan warisan Anda.",
+    "ctaPrimary": "Lihat Dashboard",
+    "ctaSecondary": "Metodologi Kami"
+  },
+  "services": {
+    "badge": "LAYANAN UTAMA",
+    "title": "Solusi Strategis yang Dikurasi",
+    "items": [
+      {
+        "title": "Perencanaan Keuangan",
+        "desc": "Peta jalan komprehensif yang dirancang untuk pelestarian kekayaan jangka panjang dan pertumbuhan generasi."
+      },
+      {
+        "title": "Pelacakan Investasi",
+        "desc": "Pemantauan aset global secara real-time dengan pemodelan penilaian risiko proprietary."
+      },
+      {
+        "title": "Manajemen Kekayaan",
+        "desc": "Strategi alokasi modal aktif yang berfokus pada efisiensi pajak dan imbal hasil yang terdiversifikasi."
+      }
+    ],
+    "learnMore": "Pelajari Lebih Lanjut"
+  },
+  "howItWorks": {
+    "badge": "PROSES",
+    "title": "Onboarding yang Mudah",
+    "steps": [
+      {
+        "title": "Kirim data keuangan Anda",
+        "desc": "Hubungkan akun Anda dengan aman melalui vault terenkripsi atau berikan dokumentasi untuk entri manual."
+      },
+      {
+        "title": "Kami kategorikan aset Anda",
+        "desc": "Algoritma dan advisor kami mengorganisasi kepemilikan Anda ke dalam kelas aset strategis untuk visibilitas lebih baik."
+      },
+      {
+        "title": "Akses dashboard pribadi Anda",
+        "desc": "Masuk ke pusat komando bespoke Anda untuk melihat proyeksi pertumbuhan dan wawasan yang dapat ditindaklanjuti."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Mulai Kelola Keuangan Anda Hari Ini",
+    "subtitle": "Bergabunglah dengan lingkaran eksklusif investor yang mengutamakan presisi, kejelasan, dan pertumbuhan strategis jangka panjang.",
+    "button": "Mulai Sekarang"
+  },
+  "footer": {
+    "brand": "Green Days Wealth Club",
+    "links": ["Kebijakan Privasi", "Syarat Layanan", "Pengungkapan", "Kontak"],
+    "copy": "© 2024 Green Days Wealth Management. Member SIPC."
+  },
+  "dashboard": {
+    "premiumTier": "BEGINNER TIER",
+    "portfolioOverview": "Ikhtisar Portofolio",
+    "today": "Hari Ini",
+    "totalAssets": "TOTAL ASET",
+    "investments": "INVESTASI",
+    "savings": "TABUNGAN",
+    "trading": "TRADING",
+    "netPnL": "NET P&L (YTD)",
+    "realizedUnrealized": "Keuntungan Direalisasi & Belum Direalisasi",
+    "assetAllocation": "Alokasi Aset",
+    "details": "DETAIL",
+    "recentActivity": "Aktivitas Terkini",
+    "viewAll": "LIHAT SEMUA",
+    "savingsVelocity": "Kecepatan Tabungan",
+    "monthlyContribution": "Tingkat kontribusi bulanan",
+    "platform": "Platform",
+    "capital": "Modal",
+    "instrument": "Instrumen",
+    "position": "Posisi",
+    "profit": "Profit",
+    "date": "Tanggal",
+    "goldSavings": "Tabungan Emas",
+    "buyPrice": "Harga Beli",
+    "currentPrice": "Harga Kini",
+    "currentValue": "Nilai Sekarang",
+    "goldPnL": "Keuntungan Emas",
+    "goldPnLLabel": "NET P&L EMAS",
+    "tradingPnLLabel": "NET P&L TRADING",
+    "amount": "Jumlah",
+    "noData": "Tidak ada data"
+  }
+}

@@ -6,13 +6,13 @@ import Services from "@/components/landing/Services";
 import HowItWorks from "@/components/landing/HowItWorks";
 import CTA from "@/components/landing/CTA";
 
-export default function Home() {
-  const dict = getDictionary("id");
+export default function EnglishHome() {
+  const dict = getDictionary("en");
 
   return (
     <>
-      <Navbar dict={dict} locale="id" />
-      <Hero dict={dict} locale="id" />
+      <Navbar dict={dict} locale="en" />
+      <Hero dict={dict} locale="en" />
       <Services dict={dict} />
       <HowItWorks dict={dict} />
       <CTA dict={dict} />
