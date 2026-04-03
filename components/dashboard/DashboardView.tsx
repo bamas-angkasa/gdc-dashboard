@@ -235,7 +235,7 @@ export default function DashboardView({ user, username, dict, locale }: Dashboar
                 {formatIDR(
                   goldCurrentValue +
                   totalSavingsIDR +
-                  (user.trading ?? []).filter(t => t.currency === "IDR").reduce((s, t) => s + t.capital + t.profit, 0)
+                  (user.trading ?? []).filter(t => t.currency === "IDR").reduce((s, t) => s + t.profit, 0)
                 )}
               </p>
               <p className="text-xs text-emerald-100 mt-1">
